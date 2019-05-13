@@ -1,0 +1,16 @@
+.taskDiv {
+  background-color: coral;
+  width: 20rem;
+  display: flex;
+  justify-content: space-between;
+  margin: 1px;
+  padding: 10px;
+}
+.allbtn {
+  width: 5rem;
+  display: flex;
+  justify-content: space-between;
+}
+.line_through {
+  text-decoration: line-through;
+}

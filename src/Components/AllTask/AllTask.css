@@ -1,0 +1,12 @@
+.allTask {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 20rem;
+}
+.btnAllLinks {
+  list-style: none;
+  padding: 5px;
+  background-color: blue;
+  margin-top: 2px;
+}
